@@ -112,4 +112,5 @@ The recovery factor in this version is a rough guess based only on porosity. In 
 
 - volumetric method. SPE Petroleum Engineering Handbook
 
-- Course material: CSA2001, VIT Bhopal
+- Course material
+  
